@@ -210,11 +210,7 @@ Adding Cloud CDN to the feserver:
 - Create a default load balancer that's solely used for this MIG, and enable Cloud CDN on it
 
 Julian
-Julian
-Julian
-Filip
-Filip
 Filip
 Rachid
-Rachid
-Rachid
+Julian Filip Rachid
+Julian Filip Rachid
